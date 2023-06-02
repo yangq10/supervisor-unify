@@ -1,0 +1,10 @@
+blinker==1.4
+Flask==1.0.3
+Flask-RESTful==0.3.7
+gunicorn==19.9.0
+
+Flask-Cors==3.0.10
+
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
